@@ -11,4 +11,4 @@ Eu sou o Marco Barbosa
 - 😄 Express
 - ⚡ MySQL / MongoDB
 
-[Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mrc6&hide=contribs,prs)
+https://github-readme-stats.vercel.app/api?username=mrc6&hide=contribs,prs
