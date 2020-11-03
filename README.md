@@ -11,4 +11,6 @@ Eu sou o Marco Barbosa
 - 😄 Express
 - ⚡ MySQL / MongoDB
 
-https://github-readme-stats.vercel.app/api?username=mrc6&hide=contribs,prs
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=mrc6&hide=contribs,prs
+" alt="mrc6" />
+
