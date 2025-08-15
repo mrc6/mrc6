@@ -2,6 +2,7 @@
 
 Eu sou o Marco Barbosa
 
+- 🐘 PHP
 - 🔭 HTML
 - 🌱 CSS
 - 👯 React
